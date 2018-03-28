@@ -22,7 +22,7 @@ Conteúdo do Repositório:
 - [Instalação](#instalação)
 - [Configuração](#configuração)
 - [Uso (Manual)](#uso)
-- [Informações Adicionais](#informações)
+- [Informações Adicionais](#informações-adicionais)
 - [Mantenedores](#mantenedores)
 - [License](#license)
 
