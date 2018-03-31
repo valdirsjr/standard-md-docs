@@ -30,7 +30,7 @@ Conteúdo do Repositório:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi porttitor vestibulum turpis vel interdum. In in eros id quam pellentesque egestas. Maecenas pretium nisi placerat, tincidunt nunc in, aliquet nisl. Nulla lorem urna, hendrerit at sodales eget, dignissim at sapien. Donec consectetur leo quis massa mattis, quis lobortis massa commodo. Sed quis eros non nulla interdum rhoncus. Sed id diam accumsan, dignissim orci sit amet, elementum ex. Nullam eu imperdiet nulla. Duis vitae lacinia tellus, ut sollicitudin quam. Fusce sollicitudin pretium turpis et consequat. Maecenas elementum sagittis mauris ut rutrum. Donec dictum ut sem nec bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi pretium leo ut cursus mollis..
 
-## Principais Funcionalidades
+## Funcionalidades da Release (em Desenvolvimento / Desenvolvidas)
 
 - **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Morbi porttitor vestibulum turpis vel interdum.
 - **Lorem ipsum dolor sit** amet, consectetur adipiscing elit. Morbi porttitor vestibulum turpis vel interdum.
